@@ -1,5 +1,14 @@
 2048-多人@Terminal
 ================
+###Screenhosts
+[!Screenhosts](./Screenhost.png)
+
+
+### 预编译版本
+- Prebuild for Android Static
+
+`Prebuild/2048.bin`
+
 
 ###简
 
