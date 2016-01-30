@@ -1,0 +1,37 @@
+------------------------------------
+2048 Multiplayer Contest Environment
+------------------------------------
+
+
+Platform : 
+C++ 11
+ubuntu 14.04
+
+Team Members : 
+
+Lokendra Sharma
+Himanshu Maurya
+Arpan Gupta
+Chandan Mittal
+Vaibhav Jaimini
+Saurabh Goyal
+
+Description :  
+Our aim is to create a contest environment for 2048 game. 
+We will follow the client server model, in which one computer is assigned as the server and all the clients connect to the server. 
+The clients can play the game, and their status, scores etc. will be displayed/stored on the server. 
+
+Requirements : 
+
+1. Should be able to display a leaderboard of all currently active players.
+2. User authentication for clients using username and password.
+3. Crash recovery in case of sudden failure of network/computer/electricity.
+4. User accounts should store the records of all games of that user.
+5. Proper registration mechanism(with password recovery question)
+6. Every activity of clients should be written to log with timestamps.
+7. A control/Admin Panel at the server portal to control and configure various options.
+
+Feel free to add to this list. 
+Provide additions and corrections with pull requests.
+Don't make changes in existing lines, create new lines instead.
+
