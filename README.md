@@ -1,7 +1,7 @@
 2048-多人@Terminal
 ================
-###Screenhosts
-![Screenhosts](./Screenhost.png)
+###Screeshot
+![Screenshots](https://github.com/Zhu-Zhi-Hao/2048_Terminal/blob/master/Screenshot.png)
 
 
 ### 预编译版本
