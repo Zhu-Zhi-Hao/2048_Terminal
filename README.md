@@ -1,7 +1,7 @@
 2048-多人@Terminal
 ================
 ###Screenhosts
-[!Screenhosts](./Screenhost.png)
+![Screenhosts](./Screenhost.png)
 
 
 ### 预编译版本
