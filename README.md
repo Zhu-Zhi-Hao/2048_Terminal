@@ -1,5 +1,8 @@
 2048-多人@Terminal
 ================
+> Thursday 07 July 2016
+> Zhu-Zhi-Hao
+
 ###Screeshot
 ![Screenshots](https://github.com/Zhu-Zhi-Hao/2048_Terminal/blob/master/Screenshot.png)
 
@@ -23,11 +26,8 @@ Original Project: https://github.com/mevdschee/2048.c
 
 - 编译
 
-`g++ -o 2048.bin 2048.cpp -std=c++11`
-
-- 支持静态编译
- 
-`g++ -o 2048-static.bin 2048.cpp -std=c++11 -static`
+`make 2048.bin`
+`make 2048_arm.bin`
 
 ###运行
 
